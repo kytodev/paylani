@@ -1,0 +1,21 @@
+{
+  "name": "paylani",
+  "version": "1.0.0",
+  "description": "A Messenger Bot to help with payments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "thisisthebesttestcommand",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "paylani"
+  },
+  "author": "Kyle Torres",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
+}
